@@ -1,11 +1,18 @@
 /*
 ---
-description: HUI_name class.
-license: MIT-style
-authors: Pavel Evstigneev
-requires: core:1.2.4:*
-provides: HUI_name
 
+description: generates form elements for accepts_nested_attributes_for in Rails
+
+license: MIT-style
+
+authors: 
+  - Pavel Evstigneev
+
+requires: 
+  - core/1.2.4: '*'
+
+provides: [HUI_name]
+...
 */
 var HUI_name = new Class({
     Implements: Options,
