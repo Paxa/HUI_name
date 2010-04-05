@@ -1,3 +1,12 @@
+/*
+---
+description: HUI_name class.
+license: MIT-style
+authors: Pavel Evstigneev
+requires: core:1.2.4:*
+provides: HUI_name
+
+*/
 var HUI_name = new Class({
     Implements: Options,
 
