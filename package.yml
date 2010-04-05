@@ -1,0 +1,5 @@
+name: HUI_name
+author: oPaxa
+category: Forms
+tags: [accepts_nested_attributes_for, rails]
+demo: http://paxa.github.com/HUI_name
