@@ -13,6 +13,7 @@ How to use
     Hn.buildNew();
 
 Options should contain: 
+
 * 'sample': element you gonna clone to make new objects forms
 * 'pasteTo': place to point new part of form, default $('sample').parentNode
 * 'bindTo': it binds onClick event to start generator on $('bindTo') element
